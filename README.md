@@ -32,20 +32,25 @@
 
 ## 🚀 Featured Projects
 
-### 🐍 Python Beginner
-A collection of Python programs and exercises created while learning Python fundamentals.
-
-🔗 [View Repository](https://github.com/atharavpatil487/python-beginner)
-
 ### 🧠 MHT-CET Quiz
+
 A web-based quiz project built with HTML.
 
 🔗 [View Repository](https://github.com/atharavpatil487/mht-cet-quiz)
 
-### 📚 Python Learning
-My Python learning repository containing practice code and exercises.
+### 🐍 Python Beginner Projects
 
-🔗 [View Repository](https://github.com/atharavpatil487/python-learning)
+A collection of Python programs and exercises built while learning Python fundamentals.
+
+🔗 [View Repository](https://github.com/atharavpatil487/python-beginner)
+
+---
+
+### 📚 Currently Learning
+
+Python • C • Web Development • Git & GitHub
+
+More original projects coming soon.
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
