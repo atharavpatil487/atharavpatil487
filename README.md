@@ -30,9 +30,22 @@
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=atharavpatil487&layout=compact&theme=tokyonight)
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=atharavpatil487&theme=tokyonight)
+### 🐍 Python Beginner
+A collection of Python programs and exercises created while learning Python fundamentals.
+
+🔗 [View Repository](https://github.com/atharavpatil487/python-beginner)
+
+### 🧠 MHT-CET Quiz
+A web-based quiz project built with HTML.
+
+🔗 [View Repository](https://github.com/atharavpatil487/mht-cet-quiz)
+
+### 📚 Python Learning
+My Python learning repository containing practice code and exercises.
+
+🔗 [View Repository](https://github.com/atharavpatil487/python-learning)
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
