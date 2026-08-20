@@ -38,7 +38,7 @@ A web-based quiz project built with HTML.
 
 🔗 [View Repository](https://github.com/atharavpatil487/mht-cet-quiz)
 
-### 🐍 Python Beginner Projects
+### 🐍 Python Beginner
 
 A collection of Python programs and exercises built while learning Python fundamentals.
 
@@ -50,7 +50,7 @@ A collection of Python programs and exercises built while learning Python fundam
 
 Python • C • Web Development • Git & GitHub
 
-More original projects coming soon.
+Building projects while strengthening my programming fundamentals.
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
