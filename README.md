@@ -1,5 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharav Patil
 
+🎓 First-Year Computer Science Engineering Student at DYPIU, Pune  
+💻 Currently learning Python, C and Web Development  
+🤖 Interested in AI/ML and Software Engineering  
+🚀 Building projects and learning by doing
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
