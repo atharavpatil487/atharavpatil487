@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharavpatil487&theme=github_dark)
+![Atharav's GitHub Stats](https://github-stats-extended.vercel.app/api?username=atharavpatil487&show_icons=true&theme=tokyonight)
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
