@@ -29,6 +29,10 @@
 ## 🧠 Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=atharavpatil487&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=atharavpatil487&theme=tokyonight)
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
