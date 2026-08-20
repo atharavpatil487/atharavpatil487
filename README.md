@@ -11,15 +11,17 @@
   <a href="https://linkedin.com/in/atharav-patil-956b03275">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__atharav__patil__/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atharavpatil487@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
 </p>
+
+**LinkedIn** · **Instagram** · **Email**
 
 ## 💻 Tech Stack
 
