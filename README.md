@@ -7,11 +7,19 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharav-patil-956b03275)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/__atharav__patil__/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=atharavpatil487@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/atharav-patil-956b03275">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/__atharav__patil__/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atharavpatil487@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
