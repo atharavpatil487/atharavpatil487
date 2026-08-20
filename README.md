@@ -3,7 +3,7 @@
 🎓 First-Year Computer Science Engineering Student at DYPIU, Pune  
 💻 Currently learning Python, C and Web Development  
 🤖 Interested in AI/ML and Software Engineering  
-🚀  Building projects and learning by doing
+🚀 Building projects and learning by doing
 
 ## 🌐 Connect With Me
 
@@ -22,14 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Atharav's GitHub Stats](https://github-stats-extended.vercel.app/api?username=atharavpatil487&show_icons=true&theme=tokyonight)
-
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=atharavpatil487&layout=compact&theme=tokyonight)
-
 ## 🚀 Featured Projects
 
 ### 🧠 MHT-CET Quiz
@@ -44,13 +36,19 @@ A collection of Python programs and exercises built while learning Python fundam
 
 🔗 [View Repository](https://github.com/atharavpatil487/python-beginner)
 
----
-
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 Python • C • Web Development • Git & GitHub
 
 Building projects while strengthening my programming fundamentals.
+
+## 📊 GitHub Stats
+
+![Atharav's GitHub Stats](https://github-stats-extended.vercel.app/api?username=atharavpatil487&show_icons=true&theme=tokyonight)
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=atharavpatil487&layout=compact&theme=tokyonight)
 <!--
 **atharavpatil487/atharavpatil487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
