@@ -11,7 +11,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/__atharav__patil__/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:atharavpatil487@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=atharavpatil487@gmail.com)
 
 ## 💻 Tech Stack
 
